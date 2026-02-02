@@ -80,7 +80,7 @@ experience in product design:
 — working with a design system;
 — infographic design (from simple numeric and kanban charts to complex tables);
 — design review, etc.
-<br>
+
 experience in communication design:
 — branding;
 — creation and preparation of printed materials (banners of various sizes, postcards, certificates, diplomas, etc.);
